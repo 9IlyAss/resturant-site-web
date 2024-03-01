@@ -1,0 +1,132 @@
+
+#t1{
+    font-size: 50px;
+    text-align: center;
+
+    
+}
+#p1{
+    text-align: center;
+    background-color: black;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+
+}
+#p2{
+    text-align: center;
+    background-color: black;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+}
+#p3{
+    text-align: center;
+    background-color: black;
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+}
+#p4{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+#MRCbutton{
+    background-color: rgba(2, 6, 226, 0.308);
+    width: 130px;
+    height: 30px;
+    margin-right: 20px;
+    border-radius: 400px;
+    border-bottom-left-radius: 70px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+#bodyreservation{
+    background-image: url(https://i.pinimg.com/564x/22/d2/85/22d2855ea04ebc9638749ce7eb74f955.jpg);
+    background-repeat: no-repeat;
+    background-position: 869px 205px;
+    background-size: 480px 500px;
+}
+#tablereservation{
+    font-size: 20px;
+}
+
+
+
+
+#SENDBUTTOM{
+
+    background-color: rgb(32, 145, 32);
+    color: white;
+    text-align: center;
+    width: 700px;
+    height: 50px;
+    margin-right: 120px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+#pC{
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+    color: red;
+}
+#dlC{
+    font-size: x-large;
+}
+#tbC{
+    border-color: black;
+    border: 5000px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table{
+    font-size: 300 ;
+}
+body{
+    background:linear-gradient(khaki,white);
+}
+#reservation{
+    text-align: center;
+}
+#l{
+    position: fixed;<!--gfggggggggggggggggggg-->
+}
+position 
